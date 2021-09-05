@@ -4,3 +4,4 @@ scikit_learn==0.24.2
 joblib==0.15.1
 streamlit==0.82.0
 lightgbm==3.2.1
+scipy==1.6.3
